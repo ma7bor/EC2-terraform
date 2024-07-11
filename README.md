@@ -17,8 +17,7 @@ Before you begin, ensure you have the following installed on your local machine:
    Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ma7bor/EC2-terraform.git
    ```
 
 2. **Configure AWS CLI**
